@@ -27,8 +27,8 @@ class Splash extends Component {
   render() {
     return (
       <Content>
-        <Header>Welcome to Crajola</Header>
-        <SubHeader>the colorful world of Craig Jones</SubHeader>
+        <Header>Hi, I'm Craig</Header>
+        <SubHeader>Educator, Entrepreneur, Family Man</SubHeader>
       </Content>
     );
   }
